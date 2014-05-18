@@ -1,0 +1,101 @@
+* {
+	font-family: Georgia;
+}
+
+header div {
+	margin: 10px 10px 10px 10px;
+	border: 1px solid white;
+	padding: 10px 10px 10px 10px;
+	width: 1000px;
+	height: 100px;
+}
+
+article div {
+	margin: 10px 10px 10px 10px;
+	border: 1px solid white;
+	padding: 10px 10px 10px 10px;
+	width: 1000px;
+	height: 100px;
+}
+
+#name {
+	border: 1px dashed #836FFF;
+	padding: 10px 10px 10px 10px;
+	font-size: 74px;
+	width: 550px;
+	height: 80px;
+	display: inline-block;
+	float: left;
+	text-align: left;
+}
+
+#contact {
+	border: 1px dashed #836FFF;
+	padding-top: 20px;
+	font-size: 18px;
+	width: 350px;
+	height: 70px;
+	display: inline-block;
+	float: right;
+	text-align: right;
+}
+
+#work {
+	margin: 10px 10px 10px 10px;
+	border: 1px dashed #836FFF;
+	padding: 10px 10px 10px 10px;
+	width: 550px;
+	height: 380px;
+	display: inline-block;
+	float: left;
+	font-size: 18px;
+}
+
+#skills {
+	border: 1px dashed #836FFF;
+	display: inline-block;
+	float: right;
+	width: 350px;
+	height: 380px;
+	text-align: right;
+	font-size: 18px;
+}
+
+article {
+	border: 1px solid white;
+	margin: 10px 10px 10px 10px;
+	padding: 10px 10px 10px 10px;
+	width: 1000px;
+	height: 390px;
+}
+
+#education {
+	border: 1px dashed #836FFF;
+	width: 550px;
+	height: 300px;
+	font-size: 18px;
+}
+
+a:link {
+	text-decoration: none;
+	color: #3D59AB;
+}
+
+a:visited {
+	text-decoration: none;
+	color: #40E0D0;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+h1 {
+	color: #3D59AB;
+}
+
+body {
+	border: 2px dashed gray;
+	height: 950px;
+	width: 1050px;
+}
